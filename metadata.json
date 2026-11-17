@@ -1,0 +1,6 @@
+{
+  "name": "CloudTech - Rental, Sales & Service Management",
+  "description": "Comprehensive business management system for laptop and desktop rentals, sales, inventory, repairs, billing, and Customer 360.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
